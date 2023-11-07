@@ -1,0 +1,2 @@
+# Homework
+Just like if else and ternary operator, you can also use [Switch Statements](https://www.w3schools.com/js/js_switch.asp). As a homework, explore the switch statement and try to write a program using the switch statement.

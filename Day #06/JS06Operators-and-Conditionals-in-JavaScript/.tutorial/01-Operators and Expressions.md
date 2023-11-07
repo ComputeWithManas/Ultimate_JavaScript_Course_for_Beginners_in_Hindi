@@ -1,0 +1,4 @@
+# Operators and Expressions
+In JavaScript, an expression is a combination of values, variables, and operators that can be evaluated to produce a result. An expression can be as simple as a single variable, or it can be complex, involving many different parts. For example, the expression `29` is a valid JavaScript expression, as is `a + b * 3`, which involves two variables (`a`and `b`), a constant (`3`), and two operators (`+` and `*`).
+
+In programming, we often use operators in our computations. An operator is a symbol that tells JavaScript to perform a certain mathematical or logical operation. For example, when we write `20 + 9`, `20` and `9` are our operands, and `+` is our operator, and `29` is our result. It's not always the case that we have one operator and two operands. For example, if we have `!true`, we have one operator (`!`), one operand (`true`), and `false` is our result.
