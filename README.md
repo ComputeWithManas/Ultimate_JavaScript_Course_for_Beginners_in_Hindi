@@ -54,5 +54,6 @@ If you encounter any issues with the code or have suggestions for improvement, f
 - [YouTube JavaScript Course Playlist](https://youtube.com/playlist?list=PL7nJnxPoUV-rBJcxmv3jHIVDZUBniRH7r&si=0ENaGqRN2ANYQKdE)
 - [Twitter](https://twitter.com/ComputeWitManas)
 - [Instagram](https://instagram.com/computewithmanas)
+- [Discord Server](https://discord.gg/A83pD2a9Ss)
 
 Happy coding! 🚀
