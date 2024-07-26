@@ -34,6 +34,9 @@ To get started with the code in this repository, follow these steps:
 
 3. **Open in Your Code Editor:**
    Open the project in your preferred code editor (e.g., VSCode, Sublime Text).
+   ```bash
+   code .
+   ```
 
 4. **Explore the Code:**
    Navigate through the folders and files to access the code for each lesson. Additionally, refer to the documentation and comments within the code for explanations and guidance.
@@ -46,7 +49,7 @@ To get started with the code in this repository, follow these steps:
 
 ## Issues and Contributions
 
-If you encounter any issues with the code or have suggestions for improvement, feel free to [create an issue]([https://github.com/your-username/ultimate-javascript-course/issues](https://github.com/ComputeWithManas/Ultimate_JavaScript_Course_for_Beginners_in_Hindi/issues)). Contributions in the form of pull requests are also welcome.
+If you encounter any issues with the code or have suggestions for improvement, feel free to [create an issue]([https://github.com/your-username/ultimate-javascript-course/issues](https://github.com/ComputeWithManas/Ultimate_JavaScript_Course_for_Beginners_in_Hindi/issues)).
 
 ## Connect with me
 
