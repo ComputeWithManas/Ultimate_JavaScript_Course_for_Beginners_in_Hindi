@@ -41,12 +41,6 @@ To get started with the code in this repository, follow these steps:
 4. **Explore the Code:**
    Navigate through the folders and files to access the code for each lesson. Additionally, refer to the documentation and comments within the code for explanations and guidance.
 
-## Additional Resources
-
-- [Course Outline](./course-outline.md): Detailed outline of the topics covered in each lesson.
-  
-- [Recommended Reading](./recommended-reading.md): A list of recommended books and online resources to supplement your learning.
-
 ## Issues and Contributions
 
 If you encounter any issues with the code or have suggestions for improvement, feel free to [create an issue]([https://github.com/your-username/ultimate-javascript-course/issues](https://github.com/ComputeWithManas/Ultimate_JavaScript_Course_for_Beginners_in_Hindi/issues)).
@@ -55,8 +49,7 @@ If you encounter any issues with the code or have suggestions for improvement, f
 
 - [YouTube Channel](https://www.youtube.com/@ComputeWithManasOfficial)
 - [YouTube JavaScript Course Playlist](https://youtube.com/playlist?list=PL7nJnxPoUV-rBJcxmv3jHIVDZUBniRH7r&si=0ENaGqRN2ANYQKdE)
-- [Twitter](https://twitter.com/ComputeWitManas)
+- [Twitter](https://x.com/_ManasAgrawal)
 - [Instagram](https://instagram.com/computewithmanas)
-- [Discord Server](https://discord.gg/A83pD2a9Ss)
 
 Happy coding! 🚀
